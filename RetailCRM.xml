@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<yml_Catalog date="2017-07-07 13:58:23">
+	<shop>
+		<name>retail_driver</name>
+		<company>retail_driver</company>
+		<categories>
+			<category id="00000665" parentId="">Полиграфия</category>
+			<category id="00022493" parentId="00022493">Календарик карманный "ШпигельАрт"</category>
+			<category id="00010341" parentId="00010341">Календарь</category>
+			<category id="00013824" parentId="00013824">Календарь  "Вдохновение"</category>
+			<category id="00007084" parentId="00007084">Календарь "Крепость семейных уз"</category>
+			<category id="00001783" parentId="00001783">Календарь "Лучи света" на каждый день 2006 год</category>
+			<category id="00009485" parentId="00009485">Календарь "Песни Песней Соломона"</category>
+			<category id="00010118" parentId="00010118">Календарь "Природа" Библейская лига</category>
+			<category id="00024190" parentId="00024190">Календарь "Псалом 90" (ангел)</category>
+			<category id="00020216" parentId="00020216">Календарь большой на 12 листах Библейская лига. Акварель</category>
+			<category id="00020391" parentId="00020391">Календарь большой на 6 листах Библейская лига.Акварель</category>
+			<category id="00021716" parentId="00021716">Календарь детский настенный "Советы от Догги"</category>
+			<category id="00019222" parentId="00019222">Календарь женский Библейская лига</category>
+			<category id="00007195" parentId="00007195">Календарь издательский на 6 листах Библейская лига</category>
+			<category id="00021431" parentId="00021431">Календарь квартальный Шпигель-Арт</category>
+			<category id="00021926" parentId="00021926">Календарь Краеугольный камень</category>
+			<category id="00014208" parentId="00014208">Календарь листовой</category>
+			<category id="00023626" parentId="00023626">Календарь листовой малый "Милость моя не отступит от тебя"</category>
+			<category id="00023625" parentId="00023625">Календарь листовой малый "Любовь никогда не перестает"</category>
+			<category id="00023624" parentId="00023624">Календарь листовой малый "Будь тверд и мужественен"</category>
+			<category id="00021473" parentId="00021473">Календарь листовой малый "Бог да восполнит всякую нужду"</category>
+		</categories>
+		<offers>
+			<offer id="00022493" productId="00022493" quantity="0">
+				<xmlId>00022493</xmlId>
+				<name>Календарик карманный "ШпигельАрт"</name>
+				<categoryId>00021473</categoryId>
+				<param code="article" name="Артикул"> </param>
+				<param code="height" name="Высота">10.0</param>
+				<param code="width" name="Ширина">7.0</param>
+				<param code="Depth" name="Толщина"/>
+				<param code="weight" name="Вес">0</param>
+				<price>8.00</price>
+				<purchasePrice>0</purchasePrice>
+			</offer>
+			<offer id="00010341" productId="00010341" quantity="0">
+				<xmlId>00010341</xmlId>
+				<name>Календарь</name>
+				<categoryId>00021473</categoryId>
+				<param code="article" name="Артикул"> </param>
+				<param code="height" name="Высота">10.0</param>
+				<param code="width" name="Ширина">7.0</param>
+				<param code="Depth" name="Толщина"/>
+				<param code="weight" name="Вес">0</param>
+				<price>0</price>
+				<purchasePrice>0</purchasePrice>
+			</offer>
+			<offer id="00013824" productId="00013824" quantity="0">
+				<xmlId>00013824</xmlId>
+				<name>Календарь  "Вдохновение"</name>
+				<categoryId>00021473</categoryId>
+				<param code="article" name="Артикул"> </param>
+				<param code="height" name="Высота">22.6</param>
+				<param code="width" name="Ширина">30.0</param>
+				<param code="Depth" name="Толщина">0.2</param>
+				<param code="weight" name="Вес">0.180</param>
+				<price>0</price>
+				<purchasePrice>0</purchasePrice>
+			</offer>
+			<offer id="00007084" productId="00007084" quantity="0">
+				<xmlId>00007084</xmlId>
+				<name>Календарь "Крепость семейных уз"</name>
+				<categoryId>00021473</categoryId>
+				<param code="article" name="Артикул"> </param>
+				<param code="height" name="Высота">31.0</param>
+				<param code="width" name="Ширина">21.0</param>
+				<param code="Depth" name="Толщина">0.1</param>
+				<param code="weight" name="Вес">0.090</param>
+				<price>0</price>
+				<purchasePrice>0</purchasePrice>
+			</offer>
+			<offer id="00001783" productId="00001783" quantity="0">
+				<xmlId>00001783</xmlId>
+				<name>Календарь "Лучи света" на каждый день 2006 год</name>
+				<categoryId>00021473</categoryId>
+				<param code="article" name="Артикул"> </param>
+				<param code="height" name="Высота">31.0</param>
+				<param code="width" name="Ширина">21.0</param>
+				<param code="Depth" name="Толщина">0.1</param>
+				<param code="weight" name="Вес">0</param>
+				<price>0</price>
+				<purchasePrice>0</purchasePrice>
+			</offer>
+			<offer id="00009485" productId="00009485" quantity="0">
+				<xmlId>00009485</xmlId>
+				<name>Календарь "Песни Песней Соломона"</name>
+				<categoryId>00021473</categoryId>
+				<param code="article" name="Артикул"> </param>
+				<param code="height" name="Высота">31.0</param>
+				<param code="width" name="Ширина">21.0</param>
+				<param code="Depth" name="Толщина">0.1</param>
+				<param code="weight" name="Вес">0</param>
+				<price>0</price>
+				<purchasePrice>0</purchasePrice>
+			</offer>
+			<offer id="00010118" productId="00010118" quantity="0">
+				<xmlId>00010118</xmlId>
+				<name>Календарь "Природа" Библейская лига</name>
+				<categoryId>00021473</categoryId>
+				<param code="article" name="Артикул"> </param>
+				<param code="height" name="Высота">29.0</param>
+				<param code="width" name="Ширина">29.0</param>
+				<param code="Depth" name="Толщина">0.2</param>
+				<param code="weight" name="Вес">0.150</param>
+				<price>110.00</price>
+				<purchasePrice>0</purchasePrice>
+			</offer>
+			<offer id="00024190" productId="00024190" quantity="0">
+				<xmlId>00024190</xmlId>
+				<name>Календарь "Псалом 90" (ангел)</name>
+				<categoryId>00021473</categoryId>
+				<param code="article" name="Артикул"> </param>
+				<param code="height" name="Высота">29.0</param>
+				<param code="width" name="Ширина">29.0</param>
+				<param code="Depth" name="Толщина">0.2</param>
+				<param code="weight" name="Вес">0</param>
+				<price>0</price>
+				<purchasePrice>0</purchasePrice>
+			</offer>
+			<offer id="00020216" productId="00020216" quantity="0">
+				<xmlId>00020216</xmlId>
+				<name>Календарь большой на 12 листах Библейская лига. Акварель</name>
+				<categoryId>00021473</categoryId>
+				<param code="article" name="Артикул"> </param>
+				<param code="height" name="Высота">49.0</param>
+				<param code="width" name="Ширина">34.0</param>
+				<param code="Depth" name="Толщина">0.8</param>
+				<param code="weight" name="Вес">0.400</param>
+				<price>168.00</price>
+				<purchasePrice>0</purchasePrice>
+			</offer>
+			<offer id="00020391" productId="00020391" quantity="0">
+				<xmlId>00020391</xmlId>
+				<name>Календарь большой на 6 листах Библейская лига.Акварель</name>
+				<categoryId>00021473</categoryId>
+				<param code="article" name="Артикул"> </param>
+				<param code="height" name="Высота">49.0</param>
+				<param code="width" name="Ширина">34.0</param>
+				<param code="Depth" name="Толщина">0.8</param>
+				<param code="weight" name="Вес">0.250</param>
+				<price>143.00</price>
+				<purchasePrice>0</purchasePrice>
+			</offer>
+			<offer id="00021716" productId="00021716" quantity="0">
+				<xmlId>00021716</xmlId>
+				<name>Календарь детский настенный "Советы от Догги"</name>
+				<categoryId>00021473</categoryId>
+				<param code="article" name="Артикул"> </param>
+				<param code="height" name="Высота">24.2</param>
+				<param code="width" name="Ширина">16.0</param>
+				<param code="Depth" name="Толщина">0.1</param>
+				<param code="weight" name="Вес">0.040</param>
+				<price>80.00</price>
+				<purchasePrice>0</purchasePrice>
+			</offer>
+			<offer id="00019222" productId="00019222" quantity="0">
+				<xmlId>00019222</xmlId>
+				<name>Календарь женский Библейская лига</name>
+				<categoryId>00021473</categoryId>
+				<param code="article" name="Артикул"> </param>
+				<param code="height" name="Высота">29.0</param>
+				<param code="width" name="Ширина">29.0</param>
+				<param code="Depth" name="Толщина">0.2</param>
+				<param code="weight" name="Вес">0.150</param>
+				<price>110.00</price>
+				<purchasePrice>0</purchasePrice>
+			</offer>
+			<offer id="00007195" productId="00007195" quantity="0">
+				<xmlId>00007195</xmlId>
+				<name>Календарь издательский на 6 листах Библейская лига</name>
+				<categoryId>00021473</categoryId>
+				<param code="article" name="Артикул"> </param>
+				<param code="height" name="Высота">43.0</param>
+				<param code="width" name="Ширина">28.0</param>
+				<param code="Depth" name="Толщина">0.8</param>
+				<param code="weight" name="Вес">0.220</param>
+				<price>160.00</price>
+				<purchasePrice>0</purchasePrice>
+			</offer>
+			<offer id="00021431" productId="00021431" quantity="0">
+				<xmlId>00021431</xmlId>
+				<name>Календарь квартальный Шпигель-Арт</name>
+				<categoryId>00021473</categoryId>
+				<param code="article" name="Артикул"> </param>
+				<param code="height" name="Высота">25.0</param>
+				<param code="width" name="Ширина">30.0</param>
+				<param code="Depth" name="Толщина">1.0</param>
+				<param code="weight" name="Вес">0.300</param>
+				<price>320.00</price>
+				<purchasePrice>0</purchasePrice>
+			</offer>
+			<offer id="00021926" productId="00021926" quantity="0">
+				<xmlId>00021926</xmlId>
+				<name>Календарь Краеугольный камень</name>
+				<categoryId>00021473</categoryId>
+				<param code="article" name="Артикул"> </param>
+				<param code="height" name="Высота">1.0</param>
+				<param code="width" name="Ширина">1.0</param>
+				<param code="Depth" name="Толщина">1.0</param>
+				<param code="weight" name="Вес">0.200</param>
+				<price>0</price>
+				<purchasePrice>0</purchasePrice>
+			</offer>
+			<offer id="00014208" productId="00014208" quantity="0">
+				<xmlId>00014208</xmlId>
+				<name>Календарь листовой</name>
+				<categoryId>00021473</categoryId>
+				<param code="article" name="Артикул"> </param>
+				<param code="height" name="Высота">1.0</param>
+				<param code="width" name="Ширина">1.0</param>
+				<param code="Depth" name="Толщина">1.0</param>
+				<param code="weight" name="Вес">0</param>
+				<price>0</price>
+				<purchasePrice>0</purchasePrice>
+			</offer>
+			<offer id="00023626" productId="00023626" quantity="0">
+				<xmlId>00023626</xmlId>
+				<name>Календарь листовой малый "Милость моя не отступит от тебя"</name>
+				<categoryId>00021473</categoryId>
+				<param code="article" name="Артикул"> </param>
+				<param code="height" name="Высота">30.0</param>
+				<param code="width" name="Ширина">21.0</param>
+				<param code="Depth" name="Толщина">0.1</param>
+				<param code="weight" name="Вес">0.015</param>
+				<price>0</price>
+				<purchasePrice>0</purchasePrice>
+			</offer>
+			<offer id="00023625" productId="00023625" quantity="0">
+				<xmlId>00023625</xmlId>
+				<name>Календарь листовой малый "Любовь никогда не перестает"</name>
+				<categoryId>00021473</categoryId>
+				<param code="article" name="Артикул"> </param>
+				<param code="height" name="Высота">30.0</param>
+				<param code="width" name="Ширина">21.0</param>
+				<param code="Depth" name="Толщина">0.1</param>
+				<param code="weight" name="Вес">0.015</param>
+				<price>0</price>
+				<purchasePrice>0</purchasePrice>
+			</offer>
+			<offer id="00023624" productId="00023624" quantity="0">
+				<xmlId>00023624</xmlId>
+				<name>Календарь листовой малый "Будь тверд и мужественен"</name>
+				<categoryId>00021473</categoryId>
+				<param code="article" name="Артикул"> </param>
+				<param code="height" name="Высота">30.0</param>
+				<param code="width" name="Ширина">21.0</param>
+				<param code="Depth" name="Толщина">0.1</param>
+				<param code="weight" name="Вес">0.015</param>
+				<price>0</price>
+				<purchasePrice>0</purchasePrice>
+			</offer>
+			<offer id="00021473" productId="00021473" quantity="0">
+				<xmlId>00021473</xmlId>
+				<name>Календарь листовой малый "Бог да восполнит всякую нужду"</name>
+				<categoryId>00021473</categoryId>
+				<param code="article" name="Артикул"> </param>
+				<param code="height" name="Высота">30.0</param>
+				<param code="width" name="Ширина">21.0</param>
+				<param code="Depth" name="Толщина">0.1</param>
+				<param code="weight" name="Вес">0.015</param>
+				<price>0</price>
+				<purchasePrice>0</purchasePrice>
+			</offer>
+		</offers>
